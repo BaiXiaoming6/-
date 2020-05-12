@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userDefaultRoot>
+    <MusicVolume>100</MusicVolume>
+    <SoundVolume>100</SoundVolume>
+    <myMoney>0</myMoney>
+    <cardCount>6</cardCount>
+    <userCard>1.2.3.4.6.</userCard>
+    <noviceguidance>true</noviceguidance>
+    <levelCount>0</levelCount>
+    <biglevelCount>1</biglevelCount>
+</userDefaultRoot>

@@ -1,0 +1,13 @@
+{
+    "Lua.diagnostics.globals": [
+        "ccui",
+        "ccexp",
+        "module",
+        "getCards",
+        "setCards",
+        "UserData"
+    ],
+    "Lua.diagnostics.disable": [
+        "lowercase-global"
+    ]
+}

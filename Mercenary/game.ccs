@@ -1,0 +1,155 @@
+<Solution>
+  <PropertyGroup Name="game" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="majia">
+          <Folder Name="font">
+            <TTF Name="font.ttf" />
+          </Folder>
+          <Folder Name="images">
+            <PlistImageFolder Image="game_ui.png" PListFile="game_ui.plist" Name=".game_ui_PList.Dir">
+              <PlistImageFile Name="arraw_left.png" Key="arraw_left.png" />
+              <PlistImageFile Name="arraw_right.png" Key="arraw_right.png" />
+              <PlistImageFile Name="bg_all.png" Key="bg_all.png" />
+              <PlistImageFile Name="bg_cards_2.png" Key="bg_cards_2.png" />
+              <PlistImageFile Name="bg_chip.png" Key="bg_chip.png" />
+              <PlistImageFile Name="bg_lose.png" Key="bg_lose.png" />
+              <PlistImageFile Name="bg_money.png" Key="bg_money.png" />
+              <PlistImageFile Name="bg_use.png" Key="bg_use.png" />
+              <PlistImageFile Name="bg_win.png" Key="bg_win.png" />
+              <PlistImageFile Name="big_level_1_1.png" Key="big_level_1_1.png" />
+              <PlistImageFile Name="big_level_2_1.png" Key="big_level_2_1.png" />
+              <PlistImageFile Name="big_level_2_2.png" Key="big_level_2_2.png" />
+              <PlistImageFile Name="big_level_3_1.png" Key="big_level_3_1.png" />
+              <PlistImageFile Name="big_level_3_2.png" Key="big_level_3_2.png" />
+              <PlistImageFile Name="blueMask.png" Key="blueMask.png" />
+              <PlistImageFile Name="btn.png" Key="btn.png" />
+              <PlistImageFile Name="btn_attack_1.png" Key="btn_attack_1.png" />
+              <PlistImageFile Name="btn_attack_2.png" Key="btn_attack_2.png" />
+              <PlistImageFile Name="btn_box.png" Key="btn_box.png" />
+              <PlistImageFile Name="btn_cancel.png" Key="btn_cancel.png" />
+              <PlistImageFile Name="btn_cards.png" Key="btn_cards.png" />
+              <PlistImageFile Name="btn_choose.png" Key="btn_choose.png" />
+              <PlistImageFile Name="btn_coinback.png" Key="btn_coinback.png" />
+              <PlistImageFile Name="btn_effect_1.png" Key="btn_effect_1.png" />
+              <PlistImageFile Name="btn_effect_2.png" Key="btn_effect_2.png" />
+              <PlistImageFile Name="btn_end.png" Key="btn_end.png" />
+              <PlistImageFile Name="btn_exit.png" Key="btn_exit.png" />
+              <PlistImageFile Name="btn_exit_2.png" Key="btn_exit_2.png" />
+              <PlistImageFile Name="btn_exit_3.png" Key="btn_exit_3.png" />
+              <PlistImageFile Name="btn_exit_4.png" Key="btn_exit_4.png" />
+              <PlistImageFile Name="btn_find.png" Key="btn_find.png" />
+              <PlistImageFile Name="btn_help.png" Key="btn_help.png" />
+              <PlistImageFile Name="btn_music_1.png" Key="btn_music_1.png" />
+              <PlistImageFile Name="btn_music_2.png" Key="btn_music_2.png" />
+              <PlistImageFile Name="btn_next.png" Key="btn_next.png" />
+              <PlistImageFile Name="btn_next_2.png" Key="btn_next_2.png" />
+              <PlistImageFile Name="btn_obcerse.png" Key="btn_obcerse.png" />
+              <PlistImageFile Name="btn_owned.png" Key="btn_owned.png" />
+              <PlistImageFile Name="btn_quit.png" Key="btn_quit.png" />
+              <PlistImageFile Name="btn_shop.png" Key="btn_shop.png" />
+              <PlistImageFile Name="btn_start_1.png" Key="btn_start_1.png" />
+              <PlistImageFile Name="btn_start_2.png" Key="btn_start_2.png" />
+              <PlistImageFile Name="btn_wait.png" Key="btn_wait.png" />
+              <PlistImageFile Name="card_1_1.png" Key="card_1_1.png" />
+              <PlistImageFile Name="card_1_10.png" Key="card_1_10.png" />
+              <PlistImageFile Name="card_1_11.png" Key="card_1_11.png" />
+              <PlistImageFile Name="card_1_12.png" Key="card_1_12.png" />
+              <PlistImageFile Name="card_1_13.png" Key="card_1_13.png" />
+              <PlistImageFile Name="card_1_14.png" Key="card_1_14.png" />
+              <PlistImageFile Name="card_1_15.png" Key="card_1_15.png" />
+              <PlistImageFile Name="card_1_16.png" Key="card_1_16.png" />
+              <PlistImageFile Name="card_1_17.png" Key="card_1_17.png" />
+              <PlistImageFile Name="card_1_18.png" Key="card_1_18.png" />
+              <PlistImageFile Name="card_1_2.png" Key="card_1_2.png" />
+              <PlistImageFile Name="card_1_3.png" Key="card_1_3.png" />
+              <PlistImageFile Name="card_1_4.png" Key="card_1_4.png" />
+              <PlistImageFile Name="card_1_5.png" Key="card_1_5.png" />
+              <PlistImageFile Name="card_1_6.png" Key="card_1_6.png" />
+              <PlistImageFile Name="card_1_7.png" Key="card_1_7.png" />
+              <PlistImageFile Name="card_1_8.png" Key="card_1_8.png" />
+              <PlistImageFile Name="card_1_9.png" Key="card_1_9.png" />
+              <PlistImageFile Name="card_1_mask.png" Key="card_1_mask.png" />
+              <PlistImageFile Name="card_2_1.png" Key="card_2_1.png" />
+              <PlistImageFile Name="card_2_10.png" Key="card_2_10.png" />
+              <PlistImageFile Name="card_2_11.png" Key="card_2_11.png" />
+              <PlistImageFile Name="card_2_12.png" Key="card_2_12.png" />
+              <PlistImageFile Name="card_2_13.png" Key="card_2_13.png" />
+              <PlistImageFile Name="card_2_14.png" Key="card_2_14.png" />
+              <PlistImageFile Name="card_2_15.png" Key="card_2_15.png" />
+              <PlistImageFile Name="card_2_16.png" Key="card_2_16.png" />
+              <PlistImageFile Name="card_2_17.png" Key="card_2_17.png" />
+              <PlistImageFile Name="card_2_18.png" Key="card_2_18.png" />
+              <PlistImageFile Name="card_2_2.png" Key="card_2_2.png" />
+              <PlistImageFile Name="card_2_3.png" Key="card_2_3.png" />
+              <PlistImageFile Name="card_2_4.png" Key="card_2_4.png" />
+              <PlistImageFile Name="card_2_5.png" Key="card_2_5.png" />
+              <PlistImageFile Name="card_2_6.png" Key="card_2_6.png" />
+              <PlistImageFile Name="card_2_7.png" Key="card_2_7.png" />
+              <PlistImageFile Name="card_2_8.png" Key="card_2_8.png" />
+              <PlistImageFile Name="card_2_9.png" Key="card_2_9.png" />
+              <PlistImageFile Name="card_2_push.png" Key="card_2_push.png" />
+              <PlistImageFile Name="card_3_1.png" Key="card_3_1.png" />
+              <PlistImageFile Name="card_3_10.png" Key="card_3_10.png" />
+              <PlistImageFile Name="card_3_11.png" Key="card_3_11.png" />
+              <PlistImageFile Name="card_3_12.png" Key="card_3_12.png" />
+              <PlistImageFile Name="card_3_13.png" Key="card_3_13.png" />
+              <PlistImageFile Name="card_3_14.png" Key="card_3_14.png" />
+              <PlistImageFile Name="card_3_15.png" Key="card_3_15.png" />
+              <PlistImageFile Name="card_3_16.png" Key="card_3_16.png" />
+              <PlistImageFile Name="card_3_17.png" Key="card_3_17.png" />
+              <PlistImageFile Name="card_3_18.png" Key="card_3_18.png" />
+              <PlistImageFile Name="card_3_2.png" Key="card_3_2.png" />
+              <PlistImageFile Name="card_3_3.png" Key="card_3_3.png" />
+              <PlistImageFile Name="card_3_4.png" Key="card_3_4.png" />
+              <PlistImageFile Name="card_3_5.png" Key="card_3_5.png" />
+              <PlistImageFile Name="card_3_6.png" Key="card_3_6.png" />
+              <PlistImageFile Name="card_3_7.png" Key="card_3_7.png" />
+              <PlistImageFile Name="card_3_8.png" Key="card_3_8.png" />
+              <PlistImageFile Name="card_3_9.png" Key="card_3_9.png" />
+              <PlistImageFile Name="card_3_box_1.png" Key="card_3_box_1.png" />
+              <PlistImageFile Name="card_3_box_2.png" Key="card_3_box_2.png" />
+              <PlistImageFile Name="card_3_box_3.png" Key="card_3_box_3.png" />
+              <PlistImageFile Name="Coinback.png" Key="Coinback.png" />
+              <PlistImageFile Name="icon.png" Key="icon.png" />
+              <PlistImageFile Name="level_line.png" Key="level_line.png" />
+              <PlistImageFile Name="mask.png" Key="mask.png" />
+              <PlistImageFile Name="obcerse.png" Key="obcerse.png" />
+              <PlistImageFile Name="prop_1.png" Key="prop_1.png" />
+              <PlistImageFile Name="prop_2.png" Key="prop_2.png" />
+              <PlistImageFile Name="prop_3.png" Key="prop_3.png" />
+              <PlistImageFile Name="prop_4.png" Key="prop_4.png" />
+              <PlistImageFile Name="prop_5.png" Key="prop_5.png" />
+              <PlistImageFile Name="prop_6.png" Key="prop_6.png" />
+              <PlistImageFile Name="prop_7.png" Key="prop_7.png" />
+              <PlistImageFile Name="redMask.png" Key="redMask.png" />
+              <PlistImageFile Name="small_boss_1.png" Key="small_boss_1.png" />
+              <PlistImageFile Name="small_boss_2.png" Key="small_boss_2.png" />
+              <PlistImageFile Name="small_boss_3.png" Key="small_boss_3.png" />
+              <PlistImageFile Name="small_level_1.png" Key="small_level_1.png" />
+              <PlistImageFile Name="small_level_2.png" Key="small_level_2.png" />
+              <PlistImageFile Name="small_level_3.png" Key="small_level_3.png" />
+              <PlistImageFile Name="tips_1.png" Key="tips_1.png" />
+              <PlistImageFile Name="tips_2.png" Key="tips_2.png" />
+              <PlistImageFile Name="tips_3.png" Key="tips_3.png" />
+              <PlistImageFile Name="tips_4.png" Key="tips_4.png" />
+            </PlistImageFolder>
+            <Image Name="bg_cards.png" />
+            <Image Name="bg_main.png" />
+            <Image Name="bg_rule_1.png" />
+            <Image Name="bg_rule_2.png" />
+          </Folder>
+          <Project Name="BigLevelLayer.csd" Type="Layer" />
+          <Project Name="CardsLayer.csd" Type="Layer" />
+          <Project Name="LevelLayer.csd" Type="Layer" />
+          <Project Name="MainScene.csd" Type="Scene" />
+          <Project Name="PlayScene.csd" Type="Scene" />
+          <Project Name="ShopLayer.csd" Type="Layer" />
+          <Project Name="TipsNode.csd" Type="Node" />
+          <Project Name="TipsRoundNode.csd" Type="Node" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
